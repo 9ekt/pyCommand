@@ -20,7 +20,7 @@ Not only does pyCommand support basic command prompt features, it supports the a
 pyCommand natively supports mods but keeps it hidden 👀, in the same directory as `pyCommand.py` or `pyCommand.exe` you'll need to create a `mods` folder the folders name must be all lowercase and must include the sneaky `s` at the end, else pyCommand will not recognise this folder. If your mod includes and errors or problems pyCommand will catch those pesky errors and display them to your pyCommand display, not only does this make debugging more efficient it also allows you to update and save the file without restarting pyCommand once.
 
 ### My mods arent being detected
-Make sure your mod has more than `0 bytes of size` else pyCommand will assume its a useless file and skip it, if it has more than `0 bytes` and pyCommand still is not detecting it, check to make sure your folder is connect [Check here](#where-do-i-put-my-mods).
+Make sure your mod has more than `0 bytes of size` else pyCommand will assume its a useless file and skip it, if it has more than `0 bytes` and pyCommand still is not detecting it, check to make sure your folder is [correct](#where-do-i-put-my-mods).
 
 ### My pyCommand wont start
 Make sure you've included the `assets` folder in the same directory as `pyCommand.py` or `pyCommand.exe` the assets folder is used to store `mod` addons and core pyCommand icons. Without this, pyCommand wont even attempt to start so make sure you've included this.

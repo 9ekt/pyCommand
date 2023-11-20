@@ -37,6 +37,7 @@ If this error is appearing when you are starting pyCommand then you have an out 
   - Basic Knowledge on [Python](https://www.python.org/) if you'd like to create mods.
 
 ### First things first, lets download pyCommand.
+With this it will download the entire repository, but the main folder we need will be `PyCmd`
 ![howtodownload](https://github.com/9ekt/pyCommand/assets/129973190/b3bcf9ec-714a-41b5-b3d7-0e7bc5982f1b)
 
 

@@ -25,9 +25,18 @@ Make sure your mod has more than `0 bytes of size` else pyCommand will assume it
 ### My pyCommand wont start
 Make sure you've included the `assets` folder in the same directory as `pyCommand.py` or `pyCommand.exe` the assets folder is used to store `mod` addons and core pyCommand icons. Without this, pyCommand wont even attempt to start so make sure you've included this.
 
+### I'm getting an error with importing a module
+If this error is appearing when you are starting pyCommand then you have an out of date python version, all packages are default within pythons instalation but some imports used only become a default package around 3.5~ thats why your python version is required to be 3.10+
+
 
 # Setup
 
-Coming soon amigos
+### Requirements
+  - Python 3.10 or later
+  - Windows OS / Mac Device (Might work has not been tested)
+  - Basic Knowledge on [Python](https://www.python.org/) if you'd like to create mods.
+
+# First things first
+Lets download python.
 
 

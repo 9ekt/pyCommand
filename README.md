@@ -1,6 +1,6 @@
 # pyCommand
 
-Hello friends👋, If your thinking about using pyCommand please following the [Setup](#Setup) and check out the [Commonly asked questions](#commonly-asked-questions)
+Hello friends👋, If your thinking about using pyCommand please follow the [Setup](#Setup) and check out the [Commonly asked questions](#commonly-asked-questions) if your confused or curious.
 
 # Commonly asked questions
 
@@ -11,4 +11,10 @@ pyCommand is a solo project that was originally created to be a replica of comma
 Theres multible points for pyCommand, for a start its fast and effiencent ensuring your not going to get unexpected lag or crashes. for example running `dir/s` in normal command prompt it takes acouple of seconds to list your directories while pyCommand will spit it out to you all in one go allowing you to quickly find what your looking for, not only does it do that it also includes a search feature triggered with `Ctrl + F` this will bring up PyCommands search feature, making finding what you need with lots of output a dream.
 
 ### What were those extra features you mentioned?
-Not only does pyCommand support basic command prompt features, it supports the ability to fully customise it with mods, yes you heard me mods for a command prompt replica, this opens it up to alot more possibilities such as creating games, extra features, and customising the UI design. 
+Not only does pyCommand support basic command prompt features, it supports the ability to fully customise it with mods, yes you heard me mods for a command prompt replica, this opens it up to alot more possibilities such as creating games, extra features, and customising the UI design. These modifications can be easily distributed to friends and the community. Thats not all pyCommand has an update check in place to ensure you are always on the latest version and are enjoying them sweet features. 
+
+### Where do I put my mods?
+pyCommand natively supports mods but keeps it hidden 👀, in the same directory as `pyCommand.py` or `pyCommand.exe` you'll need to create a `mods` folder the folders name but be all lower case and must include the sneaky `s` at the end, else pyCommand will not recognise this folder. If your mod includes and errors or problems pyCommand will catch those pesky errors and display them to your pyCommand display, not only does this make debugging more efficient it also allows you to update and save the file without restarting pyCommand once.
+
+### My mods arent being detected
+Make sure your mod has more than `0 bytes of size` else pyCommand will assume its a useless file and skip it, if it has more than `0 bytes` and pyCommand still is not detecting it, check to make sure your folder is connect [Check here](#where-do-)

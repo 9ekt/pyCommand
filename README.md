@@ -40,6 +40,13 @@ If this error is appearing when you are starting pyCommand then you have an out 
 With this it will download the entire repository, but the main folder we need will be `PyCmd`
 ![howtodownload](https://github.com/9ekt/pyCommand/assets/129973190/b3bcf9ec-714a-41b5-b3d7-0e7bc5982f1b)
 
+### Extrating and using pyCommand
+Your folder should look like this.
+![image](https://github.com/9ekt/pyCommand/assets/129973190/5562f8db-7569-47cb-9ae9-da6284b73ef5)
+
+You can simply move the PyCmd folder to your desktop or anywhere you'd like, and thats it your done simply run `pyCommand.py` to use.
+
+
 
 # 
 

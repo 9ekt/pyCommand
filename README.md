@@ -36,7 +36,10 @@ If this error is appearing when you are starting pyCommand then you have an out 
   - Windows OS / Mac Device (Might work has not been tested)
   - Basic Knowledge on [Python](https://www.python.org/) if you'd like to create mods.
 
-# First things first
-Lets download python.
+### First things first, lets download pyCommand.
+![howtodownload](https://github.com/9ekt/pyCommand/assets/129973190/b3bcf9ec-714a-41b5-b3d7-0e7bc5982f1b)
+
+
+# 
 
 

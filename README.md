@@ -3,7 +3,7 @@
 Hello friends👋, If your thinking about using pyCommand please follow the [Setup](#Setup) and check out the [Commonly asked questions](#commonly-asked-questions) if your confused or curious.
 
 The most common problems are:
-  - [pyCommand wont start]()
+  - [pyCommand wont start](#my-pycommand-wont-start)
 
 # Commonly asked questions
 
@@ -23,6 +23,11 @@ pyCommand natively supports mods but keeps it hidden 👀, in the same directory
 Make sure your mod has more than `0 bytes of size` else pyCommand will assume its a useless file and skip it, if it has more than `0 bytes` and pyCommand still is not detecting it, check to make sure your folder is connect [Check here](#where-do-i-put-my-mods).
 
 ### My pyCommand wont start
-Make sure you've included the `assets` folder in the same directory as `pyCommand.py` or `pyCommand.exe` the assets folder is used to store `mod` addons and 
+Make sure you've included the `assets` folder in the same directory as `pyCommand.py` or `pyCommand.exe` the assets folder is used to store `mod` addons and core pyCommand icons. Without this, pyCommand wont even attempt to start so make sure you've included this.
+
+
+# Setup
+
+Coming soon amigos
 
 

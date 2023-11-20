@@ -42,12 +42,16 @@ With this it will download the entire repository, but the main folder we need wi
 
 ### Extrating and using pyCommand
 Your folder should look like this.
+
 ![image](https://github.com/9ekt/pyCommand/assets/129973190/5562f8db-7569-47cb-9ae9-da6284b73ef5)
+
 
 You can simply move the PyCmd folder to your desktop or anywhere you'd like, and thats it your done simply run `pyCommand.py` to use.
 
 
+# Get any issues?
 
-# 
+If you encounter any problems or would like to see a new feature introduced please make a [issue post](https://github.com/9ekt/pyCommand/issues)
+
 
 

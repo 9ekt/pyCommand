@@ -1,11 +1,11 @@
 # pyCommand
 
-Hello friends👋, If your thinking about using pyCommand please follow the [Setup](#Setup) and check out the [Commonly asked questions](#commonly-asked-questions) if your confused or curious.
+Hello friends👋, If your thinking about using pyCommand please follow the [Setup](#Setup) and check out the [Frequently asked questions](#frequently-asked-questions) if your confused or curious.
 
 The most common problems are:
   - [pyCommand wont start](#my-pycommand-wont-start)
 
-# Commonly asked questions
+# Frequently asked questions
 
 ### What is pyCommand?
 pyCommand is a solo project that was originally created to be a replica of command prompt with extra features, I originally started working on this project when I was still fairly new to [Python](https://www.python.org/) About over 3 years ago, I actually forgot about this project on my USB for quite some time 😅 but I'm moving back onto this project.

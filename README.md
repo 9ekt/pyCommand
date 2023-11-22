@@ -2,10 +2,13 @@
 
 Hello friends👋, If your thinking about using pyCommand please follow the [Setup](#Setup) and check out the [Frequently asked questions](#frequently-asked-questions) if your confused or curious.
 
-The most common problems are:
+The most frequent questions and problems are:
   - [pyCommand wont start](#my-pycommand-wont-start)
 
 # Frequently asked questions
+
+### How does pyCommand work?
+pyCommand runs using Pythons programming language and built in modules, external modules are available for use as long as you place them inside of `assets/modules`. pyCommand runs on built in modules from the UI design to connecting and checking its version. The [Mod](#where-do-i-put-my-mods) Manager does use an external module `websockets` this allows the mods to communicate with pyCommand and is supplied in your `assets/modules` already, you do not need this but it is heavily recommended if your going to use mods else some mods may just straight up refuse.
 
 ### What is pyCommand?
 pyCommand is a solo project that was originally created to be a replica of command prompt with extra features, I originally started working on this project when I was still fairly new to [Python](https://www.python.org/) About over 3 years ago, I actually forgot about this project on my USB for quite some time 😅 but I'm moving back onto this project.

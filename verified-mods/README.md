@@ -10,6 +10,19 @@ I dont wanna read let me skip to these places:
 ## Are these mods safe?
 Yes! All mods are open source and checked before uploading them here, if you do download and use a mod thats not present in this folder than please make sure you double check its code before starting that module in `pyCmd`, if something sounds too good to be true it most likely is.
 
+## Where do I put my mods?
+pyCommand natively supports mods but keeps it hidden 👀, in the same directory as `pyCommand.py` or `pyCommand.exe` you'll need to create a `mods` folder the folders name must be all lowercase and must include the sneaky `s` at the end, else pyCommand will not recognise this folder. If your mod includes and errors or problems pyCommand will catch those pesky errors and display them to your pyCommand display, not only does this make debugging more efficient it also allows you to update and save the file without restarting pyCommand once.
+
+## My mods arent being detected
+Make sure your mod has more than `0 bytes of size` else pyCommand will assume its a useless file and skip it, if it has more than `0 bytes` and pyCommand still is not detecting it, check to make sure your folder is [correct](#where-do-i-put-my-mods).
+
+## I'm getting an error running my mod
+Please check the requirements section for the mod you are attempting to you. 9 times out of 10 its an image or required module you're missing.
+
+For any addon modules you need to place them in the `assets/modules` directory.
+
+For any images you need to place them in the `assets/img` directory.
+
 
 # Verified Mods Information
 In this section I will go over the `verified mods`, what they do in detail and how you can use them in your `pyCmd`. This section will also include the author, keybinds, modules used and total lines.

@@ -3,8 +3,8 @@
 in this `README` I'll go over some questions and go into detail on how the mods here work and how to create your own!
 
 I dont wanna read let me skip to these places:
-  - [How to create mods]()
-  - [Mod Information]()
+  - [How to create mods (unfinished)]()
+  - [Mod Information](#verified-mods-information)
 
 
 ## Are these mods safe?

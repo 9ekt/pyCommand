@@ -8,7 +8,7 @@ I dont wanna read let me skip to these places:
 
 
 ## Are these mods safe?
-Yes! All mods are open source and checked before uploading them here, if you do download and use a mod thats not present in this folder than please make sure you double check its code before starting that module in `pyCmd`, if something sounds too good to be true it most likely is.
+Yes! All mods are open source and checked before uploading them here, if you do download and use a mod thats not present in this folder then please make sure you double check its code before starting that module in `pyCmd`, if something sounds too good to be true it most likely is.
 
 ## Where do I put my mods?
 pyCommand natively supports mods but keeps it hidden 👀, in the same directory as `pyCommand.py` or `pyCommand.exe` you'll need to create a `mods` folder the folders name must be all lowercase and must include the sneaky `s` at the end, else pyCommand will not recognise this folder. If your mod includes and errors or problems pyCommand will catch those pesky errors and display them to your pyCommand display, not only does this make debugging more efficient it also allows you to update and save the file without restarting pyCommand once.

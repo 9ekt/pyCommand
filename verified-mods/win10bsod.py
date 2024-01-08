@@ -66,7 +66,7 @@ class UI:
         percent_compl.pack()
         percent_compl.place(relx=.235,rely=.62,anchor='center')
         percent_compl.config(width=20, height=0)
-        imagesnw = tk.PhotoImage(master=win ,file="assets/img/qr.png")
+        imagesnw = tk.PhotoImage(master=win ,file="src/img/qr.png")
         qrcode = tk.Label(win, image=imagesnw, bg='#0079D9')
         qrcode.pack()
         qrcode.place(relx=.205,rely=.75,anchor='center')

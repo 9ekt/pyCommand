@@ -24,10 +24,6 @@ Configuration = {
 async def listner(r):
     global ChatDisabled
     async with websockets.connect(websock) as wb:
-        if r == 'SilenceChat':
-            await wb.send(f'SilenceChat')
-        elif r == 'troll':
-            await wb.send(f'^*!*^8')
         elif r == 'cmd_status':
             await wb.send('cmd_status')
             response = await wb.recv()
@@ -45,13 +41,7 @@ async def receive_data():
     async with websockets.connect(websock) as websocket:
         while True:
             data = await websocket.recv()
-            
-            if data == "SilenceChat":
-                ChatDisabled = not ChatDisabled
-                UI.Output([f'The chat has been toggled by a moderator.\n','msg'],False)
-            elif data == '^*!*^8':
-                messagebox.showerror('pycmd Global Chat', 'womp womp did u get banned sad boy.')
-                quit()
+        
             
             UI.Output([f'{data}\n','msg'],False)
 
@@ -201,4 +191,5 @@ def Start():
     UI()
     
     
+
 

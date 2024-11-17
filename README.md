@@ -1,5 +1,9 @@
 # pyCommand
 
+> [!CAUTION]
+> This project is no longer being maintained, expect stuff to be broken.
+
+
 Hello friends👋, If your thinking about using pyCommand please follow the [Setup](#Setup) and check out the [Frequently asked questions](#frequently-asked-questions) if your confused or curious.
 
 The most frequent questions and problems are:
